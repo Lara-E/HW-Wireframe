@@ -85,10 +85,3 @@ body {
 p {
     padding-top: 25px;
 }
-
-.top-margin-fix:before{
-    content: ' ';
-    display: block;
-    width: 100%;
-    height: .0000001em;
-}
